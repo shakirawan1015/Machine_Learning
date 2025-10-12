@@ -1,0 +1,201 @@
+Make,Model,Year,Fuel_Type,Transmission,Color,Mileage_km,Price_USD
+Ford,Camry,2018,Electric,Automatic,Blue,46163.69,9097.12
+Ford,Altima,1996,Gasoline,Automatic,Blue,73634.96,48559.48
+Chevrolet,Altima,2002,Hybrid,CVT,Black,243781.98,1513.4
+BMW,Altima,2005,Electric,Automatic,Blue,287377.86,27590.97
+Ford,Other,###INVALID###,Electric,Manual,Silver,83033.66,4432.58
+Hyundai,F-150,2024,Hybrid,Automatic,Silver,91487.59,50662.54
+Tesla,Malibu,2017,Gasoline,Automatic,Green,Other,###INVALID###
+###INVALID###,Malibu,2022,Gasoline,Manual,,138756.04,66894.72
+BMW,Model S,2006,Diesel,CVT,Other,212036.99,55000.27
+###INVALID###,3 Series,2012,###INVALID###,Automatic,White,116939.36,79172.34
+Chevrolet,Model S,2021,Gasoline,Automatic,Red,242488.51,32692.02
+Ford,Malibu,Other,Electric,Automatic,Green,152273.22,70889.97
+Hyundai,3 Series,2003,Diesel,Automatic,Green,170603.6,21756.59
+Nissan,Altima,2006,Diesel,Automatic,Silver,150587.17,60706.79
+Ford,3 Series,2015,Diesel,CVT,,180940.66,31396.62
+Hyundai,Civic,2012,Gasoline,CVT,Green,38792.76,70898.29
+Honda,Model S,1998,Other,Manual,Blue,138848.49,###INVALID###
+Honda,3 Series,###INVALID###,Gasoline,CVT,Black,253292.46,41105.37
+Chevrolet,3 Series,2006,Diesel,CVT,Silver,###INVALID###,48316.62
+Hyundai,Camry,1998,Electric,Manual,Blue,22087.92,70362.76
+Ford,,2018,Hybrid,Automatic,Silver,230921.16,11142.93
+,3 Series,Other,Hybrid,Other,Silver,227803.23,55499.54
+Honda,Altima,2016,Electric,Manual,Silver,138188.41,20584.54
+Ford,Model S,1995,Diesel,CVT,Blue,7121.3,56919.43
+Toyota,Malibu,1997,Gasoline,Manual,Red,156676.06,22999.7
+Other,Malibu,2012,Diesel,CVT,Silver,174982.44,20196.78
+Hyundai,Altima,Other,Gasoline,,Green,132160.1,34462.71
+Hyundai,Camry,2016,Gasoline,Automatic,White,219823.01,64246.81
+Ford,###INVALID###,2001,Diesel,CVT,White,46353.78,15495.55
+Hyundai,Malibu,2022,Gasoline,Manual,Silver,33883.07,52519.45
+Toyota,F-150,2024,Diesel,Automatic,White,148264.13,17886.04
+###INVALID###,,2000,Hybrid,Automatic,White,,62941.58
+Hyundai,Civic,2008,Hybrid,Automatic,,92528.81,77528.04
+Toyota,Model S,1996,Gasoline,CVT,White,153340.86,68364.87
+BMW,Camry,2011,,Automatic,Red,180535.36,54341.79
+Chevrolet,Other,1998,Diesel,CVT,Silver,16723.79,7476.69
+Tesla,Civic,###INVALID###,Electric,Automatic,Black,121756.82,54063.53
+,Elantra,2005,Gasoline,Automatic,White,188241.98,45476.5
+Ford,Other,2012,Diesel,CVT,Black,44074.69,28571.7
+Ford,Malibu,2006,Electric,Automatic,Other,250954.76,56579.65
+Toyota,Civic,2024,Gasoline,Automatic,Black,39051.46,Other
+BMW,Civic,2004,Diesel,CVT,Black,65061.21,51104.8
+Honda,Elantra,2003,Gasoline,Other,Green,129954.85,22857.74
+Toyota,Model S,2019,Diesel,CVT,Black,52666.68,35905.01
+Nissan,Camry,1998,Other,CVT,Blue,Other,66933.01
+BMW,Altima,1999,Gasoline,Manual,Black,270199.54,63893.66
+Toyota,Model S,2001,,Other,Red,109335.2,45230.8
+Nissan,3 Series,2024,Diesel,Automatic,Blue,###INVALID###,2958.12
+Tesla,Altima,2020,###INVALID###,Manual,Blue,237275.48,9539.55
+Toyota,Elantra,2002,Diesel,Manual,Black,95031.31,63832.29
+Chevrolet,Malibu,1995,Diesel,Manual,Black,87187.9,6484.24
+Honda,Model S,2015,,CVT,Silver,102689.21,
+Honda,3 Series,2013,Electric,Automatic,Red,180988.52,28309.28
+Tesla,Altima,2014,Gasoline,Manual,Silver,61073.24,4506.54
+Nissan,Camry,2011,Diesel,Manual,White,Other,53474.78
+Tesla,Model S,2016,Gasoline,CVT,Black,154601.14,53684.54
+###INVALID###,Altima,2017,Electric,CVT,Blue,61592.83,53529.43
+Nissan,3 Series,2014,Electric,Manual,Silver,250948.92,
+Chevrolet,Altima,2020,Electric,Manual,White,135437.14,17882.41
+Hyundai,3 Series,2016,Gasoline,Manual,Silver,200836.88,49921.6
+Ford,###INVALID###,2016,Electric,Automatic,Other,48469.42,###INVALID###
+Hyundai,Other,Other,Hybrid,CVT,Silver,62358.39,56011.99
+Hyundai,Altima,2002,Diesel,CVT,Green,6635.72,60326.19
+Ford,Altima,2002,Diesel,CVT,Silver,,45035.06
+Ford,Elantra,Other,,CVT,Silver,296428.27,48040.73
+Hyundai,,2021,Hybrid,Automatic,Green,259141.0,36555.51
+Chevrolet,Civic,2019,Hybrid,CVT,Blue,86006.25,7121.18
+Honda,Malibu,2003,Electric,Manual,Silver,###INVALID###,12915.62
+Nissan,3 Series,2017,Diesel,Automatic,White,125241.81,43866.28
+###INVALID###,Camry,2001,Hybrid,,Silver,284088.3,2543.02
+Nissan,Elantra,1995,Electric,Manual,Other,256767.15,76321.0
+Nissan,Malibu,2010,Diesel,Manual,White,148264.39,31719.72
+Nissan,3 Series,2021,Hybrid,Automatic,Silver,162566.47,72647.38
+Toyota,F-150,2015,Hybrid,Automatic,White,Other,21552.35
+Tesla,Malibu,2009,Electric,Manual,White,87085.7,###INVALID###
+Nissan,Civic,2021,Gasoline,###INVALID###,Red,225962.16,5114.76
+Tesla,Malibu,2015,Gasoline,CVT,Red,227498.8,76019.33
+Chevrolet,Camry,2014,Diesel,Automatic,Blue,144700.51,10036.77
+Chevrolet,Elantra,2017,Electric,Manual,Blue,183738.34,77135.04
+Ford,3 Series,2004,Gasoline,CVT,Red,279021.71,46487.94
+Nissan,Altima,2017,###INVALID###,Automatic,Silver,208731.25,50552.15
+Ford,Civic,2022,Gasoline,CVT,Red,107425.11,34841.86
+Tesla,F-150,2011,Electric,Automatic,White,247587.62,9337.57
+Tesla,Elantra,2017,Diesel,Other,Blue,221469.61,77272.42
+Honda,Elantra,2009,Hybrid,CVT,Silver,84176.68,68285.34
+Ford,Civic,2023,Hybrid,Automatic,White,173105.65,53786.89
+Tesla,Camry,2010,Other,,White,67575.36,64028.76
+Tesla,Civic,2023,Electric,CVT,Red,157405.04,16093.46
+Chevrolet,Altima,2010,Diesel,CVT,White,195541.36,39774.89
+,F-150,2004,Diesel,Manual,Green,76775.02,53452.84
+Tesla,Elantra,2012,Other,Manual,Green,167364.6,28793.03
+Hyundai,Civic,2004,,Automatic,Red,217778.88,25928.29
+BMW,Malibu,,Hybrid,Manual,Green,178928.14,Other
+Honda,F-150,2021,Diesel,Manual,###INVALID###,111459.92,24879.14
+BMW,Civic,1996,Gasoline,###INVALID###,Black,210738.13,###INVALID###
+,F-150,2022,Gasoline,CVT,Black,###INVALID###,35797.04
+BMW,Camry,2003,Hybrid,Automatic,Red,123208.7,6852.49
+Toyota,3 Series,1999,Electric,Automatic,Blue,39943.21,61391.03
+,Altima,2009,Hybrid,Manual,Other,297059.22,25125.04
+Toyota,F-150,###INVALID###,Diesel,CVT,Blue,83070.61,7413.81
+Chevrolet,3 Series,2012,Gasoline,Automatic,Red,125512.68,55460.32
+Other,Civic,1996,Diesel,Manual,Green,###INVALID###,Other
+Ford,Malibu,2024,Electric,Other,Silver,200049.0,74759.81
+Nissan,F-150,2012,Diesel,CVT,###INVALID###,272981.38,66303.86
+Ford,Camry,2000,Electric,CVT,Green,248150.89,73774.21
+Hyundai,F-150,2009,Electric,CVT,White,283089.49,40537.3
+,Elantra,,Gasoline,Manual,Green,100084.87,20779.06
+Ford,Malibu,2016,Gasoline,CVT,Black,174992.86,61285.61
+BMW,Elantra,2011,Hybrid,,Blue,299098.92,35434.91
+Hyundai,F-150,,Electric,Manual,Black,99712.19,9263.39
+BMW,Model S,2008,Hybrid,Other,Green,283832.09,65271.72
+,Elantra,1997,Electric,Manual,Black,39196.87,62031.29
+Toyota,Elantra,2008,Gasoline,###INVALID###,,111724.91,60759.01
+Hyundai,Camry,2001,Electric,CVT,###INVALID###,,35611.17
+Hyundai,F-150,1995,Diesel,Other,,96671.29,2080.28
+Nissan,F-150,2002,Gasoline,Manual,###INVALID###,196074.36,13163.72
+Honda,Civic,2008,Hybrid,Manual,Blue,139752.01,12426.72
+Chevrolet,,2022,Gasoline,Manual,White,105263.2,63229.68
+Honda,Camry,2004,Other,CVT,Silver,299676.19,39681.59
+BMW,Elantra,2012,Hybrid,Manual,Black,167815.64,43930.97
+Hyundai,###INVALID###,2022,Diesel,CVT,Blue,173680.3,19451.43
+Nissan,Camry,2005,Hybrid,CVT,White,118893.23,53431.42
+BMW,Elantra,1996,Other,CVT,Silver,102938.44,8928.8
+###INVALID###,F-150,2011,Hybrid,Automatic,Green,47525.85,69803.7
+BMW,F-150,2010,Electric,Manual,Silver,209347.86,52337.1
+Tesla,Altima,2005,Hybrid,CVT,Red,,19546.85
+Honda,Malibu,2018,Gasoline,Manual,Red,229309.06,56607.38
+Ford,Elantra,2000,Electric,###INVALID###,Red,100690.53,5433.42
+Tesla,Model S,2008,Diesel,Automatic,Silver,126555.27,54862.23
+BMW,3 Series,Other,Gasoline,CVT,White,187814.56,20025.55
+BMW,Malibu,2009,Electric,Manual,Black,201718.01,72013.77
+,Other,2016,###INVALID###,Automatic,Other,283844.51,79024.48
+Honda,Altima,2017,Electric,###INVALID###,Black,###INVALID###,31390.77
+Hyundai,F-150,2002,Hybrid,CVT,Black,174569.52,79422.67
+Honda,Camry,Other,Hybrid,Manual,Red,171949.06,55178.16
+Toyota,###INVALID###,2021,Electric,Automatic,Silver,###INVALID###,18301.36
+Chevrolet,Civic,2016,Diesel,CVT,Red,271504.09,52060.91
+Honda,Elantra,1996,Electric,CVT,Blue,31589.35,24313.73
+Nissan,3 Series,2001,Diesel,CVT,Black,161601.45,73165.47
+BMW,Civic,2024,###INVALID###,Manual,Green,261767.1,64534.37
+Hyundai,F-150,1999,Diesel,CVT,Green,203949.84,Other
+,F-150,,Hybrid,Automatic,Black,163288.83,
+Honda,Altima,2021,Electric,Automatic,Green,73977.46,2976.95
+Tesla,Malibu,2015,Gasoline,CVT,White,,24873.02
+Nissan,F-150,1999,Gasoline,Automatic,Black,298798.58,10173.52
+Chevrolet,3 Series,2007,Hybrid,Manual,Green,285067.33,56022.24
+Nissan,3 Series,2023,Hybrid,CVT,Red,,49636.52
+Honda,Camry,2017,Electric,Automatic,White,136185.28,19652.9
+Tesla,F-150,2016,Electric,CVT,Green,110808.78,32453.03
+Chevrolet,F-150,2022,Hybrid,Automatic,Green,67571.22,51519.94
+Toyota,Camry,2020,Electric,Automatic,Blue,237158.54,17211.24
+Chevrolet,Malibu,2021,Diesel,Manual,Blue,237649.91,48082.55
+Honda,Other,1999,Electric,Automatic,Red,200012.0,3036.63
+Toyota,Model S,2020,Diesel,CVT,Black,9655.42,21964.03
+BMW,Altima,2011,Gasoline,CVT,Red,145492.56,62463.35
+Ford,Elantra,2011,Diesel,CVT,Other,219536.68,72791.38
+Honda,Elantra,2015,Gasoline,Automatic,White,254953.07,
+Ford,,###INVALID###,Hybrid,Automatic,###INVALID###,100022.99,12718.37
+BMW,Civic,2014,Electric,Manual,Silver,161514.27,36843.52
+Nissan,F-150,2020,Gasoline,CVT,Green,263923.33,44555.48
+Chevrolet,Altima,2009,Diesel,Manual,Black,249088.67,32499.68
+Ford,Model S,2008,Electric,CVT,Black,115418.8,13058.48
+Hyundai,F-150,1997,Gasoline,Automatic,White,33486.51,59364.88
+BMW,Other,2013,Electric,CVT,Red,126188.55,
+Nissan,Camry,2004,Electric,Manual,Red,175485.96,17806.37
+Hyundai,Malibu,2022,Gasoline,Manual,Silver,113430.51,61245.84
+###INVALID###,Altima,2022,Gasoline,CVT,Green,###INVALID###,22128.37
+BMW,Civic,2017,Electric,###INVALID###,Black,6801.21,69719.15
+Nissan,F-150,Other,Gasoline,Automatic,Green,161492.39,30719.36
+Hyundai,Model S,2000,Electric,Manual,Green,100692.95,75371.19
+Ford,Camry,Other,Diesel,CVT,Red,203820.77,###INVALID###
+Nissan,Elantra,2014,Hybrid,Manual,Other,68592.84,41475.36
+Tesla,Altima,1998,Electric,CVT,Green,179974.6,42627.79
+Honda,Camry,2002,Hybrid,CVT,,7267.69,24812.13
+Chevrolet,3 Series,2019,Electric,Manual,Black,40395.38,###INVALID###
+Nissan,3 Series,1999,Hybrid,CVT,Green,72882.66,45139.16
+Tesla,F-150,2007,Gasoline,Manual,Red,140627.5,7151.15
+Tesla,Altima,2013,Hybrid,CVT,Green,128219.72,10098.7
+Toyota,Model S,2000,Hybrid,CVT,Black,30998.31,67714.26
+Chevrolet,Altima,2013,Hybrid,CVT,Red,121751.18,25511.69
+Tesla,Malibu,2005,Diesel,Automatic,Silver,###INVALID###,42917.78
+Chevrolet,Model S,2006,Diesel,Automatic,Red,48201.04,Other
+Other,F-150,2000,Hybrid,Manual,Silver,229163.76,36463.52
+Tesla,Model S,1999,Hybrid,###INVALID###,White,135451.38,24922.81
+Honda,Camry,2006,Gasoline,Manual,White,138314.59,###INVALID###
+Honda,F-150,2015,Gasoline,CVT,Silver,154585.01,37554.22
+Toyota,Other,2024,Diesel,Manual,###INVALID###,145310.56,12918.03
+Toyota,Elantra,1998,Electric,CVT,Red,153841.96,14632.15
+Chevrolet,Elantra,2009,###INVALID###,Manual,Black,275791.35,31605.91
+Tesla,Camry,2020,Electric,Automatic,Black,32879.25,54591.97
+Honda,Civic,2018,Diesel,Manual,Red,176908.16,12172.84
+Tesla,Civic,2015,Hybrid,Automatic,Silver,214106.03,7692.8
+Nissan,Model S,2021,Other,CVT,Green,249542.9,59363.2
+Ford,Altima,2011,Electric,Automatic,Black,96115.49,76142.38
+Tesla,Elantra,2001,Diesel,Automatic,Blue,27763.7,67709.84
+Ford,Camry,2016,Electric,CVT,Blue,,13185.97
+BMW,3 Series,2018,Hybrid,Automatic,White,112468.33,57847.27
+Hyundai,Civic,2019,Hybrid,Automatic,Silver,75554.71,77282.13
+Hyundai,Malibu,2006,###INVALID###,Manual,Black,234546.59,40729.63
+Nissan,3 Series,2021,Diesel,CVT,Blue,262535.57,5122.2
