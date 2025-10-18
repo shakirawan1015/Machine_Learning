@@ -6,5 +6,6 @@
     "Lingma.PreferredLanguage for AI Chat": "English",
     "Lingma.PreferredLanguage forCommitMessage": "English",
     "editor.defaultFormatter": null,
-    "notebook.defaultFormatter": null
+    "notebook.defaultFormatter": null,
+    "Lingma.aI Chat.memories": true
 }

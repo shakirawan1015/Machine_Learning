@@ -1,9 +1,12 @@
 import numpy as np
 import pandas as pd
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVR
+
 
 # Load dataset
 dataset = pd.read_csv('student_academic_performance.csv')
@@ -31,6 +34,7 @@ y_smooth = model.predict(X_smooth)
 # Plot
 plt.figure(figsize=(10, 6))
 sns.scatterplot(x='cgpa', y='score', data=dataset, alpha=0.6, label='Actual Data')
+plt.show()
 
 # Plot smooth SVR fit
 plt.plot(X_smooth, y_smooth, color='red', linewidth=2, label='SVR Fit')
