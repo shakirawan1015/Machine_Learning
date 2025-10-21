@@ -1,16 +1,20 @@
-{
-    "Lingma.cloudModelAutoTriggerGenerateLength": "long",
-    "Lingma.localMachineModel": true,
-    "Lingma.aI Chat.webToolsInAsk/AgentMode": "Ask every time",
-    "Lingma.DisplayLanguage": "English",
-    "Lingma.PreferredLanguage for AI Chat": "English",
-    "Lingma.PreferredLanguage forCommitMessage": "English",
-    "Lingma.aI Chat.memories": true,
-    "Lingma.chat.cursorLine": {
-        "enabled": true,
-        "style": "underline",
-        "color": "#00FF00",
-        "thickness": "2px",
-        "animation": "pulse"
+    {
+        "Lingma.cloudModelAutoTriggerGenerateLength": "long",
+        "Lingma.localMachineModel": true,
+        "Lingma.aI Chat.webToolsInAsk/AgentMode": "Ask every time",
+        "Lingma.DisplayLanguage": "English",
+        "Lingma.PreferredLanguage for AI Chat": "English",
+        // Deleted:    "Lingma.PreferredLanguage forCommitMessage": "English, Urdu",
+        "Lingma.PreferredLanguage forCommitMessage": "English",
+        "editor.defaultFormatter": null,
+        "notebook.defaultFormatter": null,
+        "Lingma.aI Chat.memories": true,
+        "Lingma.chat.cursorLine": {
+            "enabled": true,
+            "style": "underline",
+            "color": "#00FF00",
+            "thickness": "2px",
+            "animation": "pulse"
+        },
+        "editor.cursorStyle": "line-thin",
     }
-}
